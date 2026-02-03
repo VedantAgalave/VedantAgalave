@@ -1,114 +1,114 @@
-<!-- Cartoon Header -->
+<!-- Avengers Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTY3YjA1ZDEzNmI4Y2Y0ZDI5NzAzN2M2ZjY1NTZhNzI5YmI4ZDM0ZSZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3oxHQpJKupQXsmU1JS/giphy.gif" width="300"/>
 </p>
 
-<h1 align="center">Heyyy! I'm Vedant Arvind Agalave 👋😄</h1>
+<h1 align="center">🛡️ Avengers Assemble! I'm Vedant Arvind Agalave 🦸‍♂️⚡</h1>
 
 <p align="center">
-🎓 B.Tech Student | 💻 Aspiring Full Stack Developer | 🥇 Abacus Gold Medalist  
+🎓 B.Tech Student | 💻 Full Stack Avenger | 🥇 Abacus Gold Medalist  
 <br/>
 🏫 Vedam School of Technology
 </p>
 
 ---
 
-## 🌈✨ About Me
+## 🦸‍♂️🌌 Origin Story (About Me)
 
-Hi! I’m **Vedant**, a curious coder who loves logic, creativity, and building cool things with code 😎  
-I believe in **learning by doing** and improving a little every day 🚀  
+> *"Every hero starts somewhere."*  
+
+Hey! I’m **Vedant**, a passionate coder on a mission to master technology and build powerful digital solutions 🚀  
+I believe in **discipline like Captain America**, **intelligence like Iron Man**, and **consistency like Thor** ⚡  
 
 - 🎓 B.Tech Student  
 - 🥇 Abacus Gold Medalist  
-- 🧠 Strong logical thinking  
-- 🌱 Always learning new technologies  
-- 💡 Passionate about Full Stack Development  
+- 🧠 Strong logical & analytical thinking  
+- 🌱 Always leveling up my skills  
+- 💡 Aspiring Full Stack Developer  
 
 ---
 
-## 🛠️🎨 My Tech Stack (Cartoon Style)
-
-### 👨‍💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
-</p>
-
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
-</p>
-git
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-darkblue?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode"/>
-</p>
-
 ---
-
-## 📚📖 Currently Learning
-
-- 🧩 Full Stack Web Development  
-- 📊 Data Structures & Algorithms (Java)  
-- 🤖 AI with Python  
-- 🔧 Backend Concepts  
-
----
-
-## 🏆🎉 Achievements
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="120"/>
-</p>
-
-- 🥇 **Abacus Gold Medalist**  
-- 🧠 Strong mental math & logical skills  
-- 💻 Active learner & coder  
-
----
-
-## 📊📈 GitHub Stats (Dark Theme)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedantAgalave&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥⚡ GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VedantAgalave&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍📌 Fun Developer Quote
-
-> 💬 *“Code. Learn. Break. Fix. Repeat.”* 😄
-
----
-
-## 🤝🌐 Let’s Connect
+## 🤝🌐 Join the Avengers (Connect With Me)
 
 <p>
   🐙 GitHub: <a href="https://github.com/VedantAgalave">VedantAgalave</a>
 </p>
 
+<p>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/vedant-agalave-568a19380">
+  vedant-agalave
+  </a>
+</p>
 ---
+## 🛡️⚙️ Avengers Tech Arsenal
 
-<p align="center">
-⭐ If you like my profile, don’t forget to star my repositories ⭐  
-<br/>
-😄 Thanks for visiting & happy coding!
+### 🧑‍💻 Programming Stones (Languages)
+<p>
+  <img src="https://img.shields.io/badge/Java-IronMan-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-Spiderman-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-DoctorStrange-blue?style=for-the-badge"/>
 </p>
 
-<!-- Footer Cartoon -->
+### 🌐 Web Realm (Frontend)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-CaptainAmerica-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSS3-BlackWidow-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-Thor-yellow?style=for-the-badge"/>
+</p>
+
+### ⚙️ Stark Tech (Tools & Platforms)
+<p>
+  <img src="https://img.shields.io/badge/Git-S.H.I.E.L.D-black?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-Avengers-darkblue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VS%20Code-JARVIS-blue?style=for-the-badge"/>
+</p>
+
+---
+
+## 📚📖 Training Montage (Currently Learning)
+
+- 🧩 Full Stack Web Development  
+- 📊 Data Structures & Algorithms (Java)  
+- 🤖 AI & Machine Learning with Python  
+- 🔧 Backend Development & APIs  
+
+---
+
+## 🏆🏅 Hall of Fame (Achievements)
+
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="200"/>
+</p>
+
+- 🥇 **Abacus Gold Medalist**  
+- 🧠 Advanced mental math & problem-solving  
+- 💻 Consistent learner & open-source enthusiast  
+
+---
+
+
+
+
+
+
+---
+
+## 💬🧠 Hero’s Code
+
+> *“With great code comes great responsibility.”* 🕷️😄  
+
+
+
+
+
+<p align="center">
+⭐ If you like my work, assemble by starring my repositories ⭐  
+<br/>
+🦸‍♂️ Thanks for visiting — Keep coding & stay heroic!
+</p>
+
+<!-- Avengers Footer -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="250"/>
 </p>
